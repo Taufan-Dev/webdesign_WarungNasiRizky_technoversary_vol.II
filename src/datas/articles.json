@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "slug": "misi-menyelamatkan-harimau-sumatera",
+    "title": {
+      "ID": "Misi Kritis Menyelamatkan Harimau Sumatera di Belantara Bukit Barisan",
+      "EN": "The Critical Mission to Save Sumatran Tigers in Bukit Barisan Wilderness"
+    },
+    "excerpt": {
+      "ID": "Melacak jejak satwa predator puncak Nusantara melalui pemantauan camera trap dan patroli tanpa henti para ranger Rimba.",
+      "EN": "Tracking Nusantara's apex predator through camera trap surveillance and continuous patrols by Rimba forest rangers."
+    },
+    "category": {
+      "ID": "Satwa Endemik",
+      "EN": "Endemic Fauna"
+    },
+    "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=1200",
+    "date": "14 Nov 2026",
+    "readTime": {
+      "ID": "5 mnt baca",
+      "EN": "5 min read"
+    },
+    "author": "Rimba Wildlife Research"
+  },
+  {
+    "id": 2,
+    "slug": "eksplorasi-virtual-360-hutan-papua",
+    "title": {
+      "ID": "Eksplorasi Virtual 360°: Menyusuri Kanopi Hutan Hujan Tropis Papua",
+      "EN": "Virtual 360° Exploration: Navigating Pristine Rainforest Canopies of Papua"
+    },
+    "excerpt": {
+      "ID": "Jelajahi keanekaragaman flora dan fauna purba dari ketinggian kanopi melalui teknologi peta interaktif dan panorama 360°.",
+      "EN": "Explore ancient flora and fauna diversity from high canopies through interactive 360° virtual mapping."
+    },
+    "category": {
+      "ID": "Kawasan 360°",
+      "EN": "360° Reserves"
+    },
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=800",
+    "date": "12 Nov 2026",
+    "readTime": {
+      "ID": "4 mnt baca",
+      "EN": "4 min read"
+    },
+    "author": "Rimba Geospatial Team"
+  },
+  {
+    "id": 3,
+    "slug": "panduan-tantangan-7-days-without-plastic",
+    "title": {
+      "ID": "Tantangan 7 Days Without Plastic: Langkah Nyata Menuju Nol Sampah",
+      "EN": "7 Days Without Plastic Challenge: Actionable Steps to Zero Waste"
+    },
+    "excerpt": {
+      "ID": "Ubah kebiasaan konsumsi harian dengan alternatif ramah lingkungan dan bergabung bersama ribuan pejuang bebas sampah.",
+      "EN": "Transform daily consumption habits with sustainable alternatives and join thousands of zero-waste advocates."
+    },
+    "category": {
+      "ID": "Aksi Lingkungan",
+      "EN": "Eco Campaign"
+    },
+    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?q=80&w=800",
+    "date": "10 Nov 2026",
+    "readTime": {
+      "ID": "3 mnt baca",
+      "EN": "3 min read"
+    },
+    "author": "Rimba Campaign"
+  },
+  {
+    "id": 4,
+    "slug": "aksi-nyata-tanam-mangrove-pesisir",
+    "title": {
+      "ID": "Aksi Nyata Relawan: Menanam 10.000 Mangrove Menyelamatkan Pesisir",
+      "EN": "Volunteer Action in Motion: Planting 10,000 Mangroves to Shield Coastlines"
+    },
+    "excerpt": {
+      "ID": "Kisah inspiratif para relawan muda dan komunitas lokal merehabilitasi sabuk hijau pelindung dari abrasi laut.",
+      "EN": "An inspiring journey of youth volunteers and coastal communities rehabilitating green belts against coastal abrasion."
+    },
+    "category": {
+      "ID": "Aksi Relawan",
+      "EN": "Volunteer Action"
+    },
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=800",
+    "date": "08 Nov 2026",
+    "readTime": {
+      "ID": "4 mnt baca",
+      "EN": "4 min read"
+    },
+    "author": "Rimba Volunteer Network"
+  },
+  {
+    "id": 5,
+    "slug": "merawat-rumah-terakhir-orangutan-kalimantan",
+    "title": {
+      "ID": "Merawat Koridor Alam: Suaka Terakhir Orangutan Kalimantan",
+      "EN": "Guarding Wildlife Corridors: The Last Sanctuary of Bornean Orangutans"
+    },
+    "excerpt": {
+      "ID": "Upaya rehabilitasi hutan gambut dan pembangunan koridor satwa liar guna menyatukan populasi orangutan yang terfragmentasi.",
+      "EN": "Peatland forest rehabilitation and wildlife corridors to reconnect fragmented orangutan populations."
+    },
+    "category": {
+      "ID": "Satwa Endemik",
+      "EN": "Endemic Fauna"
+    },
+    "image": "https://images.unsplash.com/photo-1544376798-89aa6b82c6cd?q=80&w=800",
+    "date": "05 Nov 2026",
+    "readTime": {
+      "ID": "6 mnt baca",
+      "EN": "6 min read"
+    },
+    "author": "Rimba Field Biologist"
+  },
+  {
+    "id": 6,
+    "slug": "bersih-sungai-stop-mikroplastik",
+    "title": {
+      "ID": "Gerakan Bersih Sungai: Menghentikan Aliran Sampah Menuju Samudra",
+      "EN": "River Cleanup Drive: Stemming the Flow of Plastics into the Ocean"
+    },
+    "excerpt": {
+      "ID": "Aksi gabungan komunitas menyusuri bantaran sungai untuk menjaring puluhan ton sampah anorganik sebelum mencemari ekosistem laut.",
+      "EN": "A joint community initiative patrolling riverbanks to trap tons of inorganic waste before it contaminates marine life."
+    },
+    "category": {
+      "ID": "Konservasi Air",
+      "EN": "Marine & River"
+    },
+    "image": "https://images.unsplash.com/photo-1618477461853-cf6ed80faba5?q=80&w=800",
+    "date": "01 Nov 2026",
+    "readTime": {
+      "ID": "3 mnt baca",
+      "EN": "3 min read"
+    },
+    "author": "Rimba Action Group"
+  }
+]
