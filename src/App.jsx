@@ -9,6 +9,8 @@ import RelawanView from "./views/relawan/index";
 import DetailRelawanView from "./views/relawan/detail";
 import SatwaView from "./views/hewan/index";
 import DetailSatwaView from "./views/hewan/detail";
+import MapsView from "./views/maps/index";
+import DetailMapView from "./views/maps/detail";
 import Footer from "./components/footer/footer";
 import "./App.css";
 
@@ -28,6 +30,10 @@ function App() {
           <Route path="/relawan/:id" element={<DetailRelawanView />} />
           <Route path="/satwa" element={<SatwaView />} />
           <Route path="/satwa/:id" element={<DetailSatwaView />} />
+          <Route path="/maps" element={<MapsView />} />
+          <Route path="/maps/:id" element={<DetailMapView />} />
+          <Route path="/kawasan" element={<MapsView />} />
+          <Route path="/kawasan/:id" element={<DetailMapView />} />
           <Route path="/hewan" element={<SatwaView />} />
           <Route path="/hewan/:id" element={<DetailSatwaView />} />
           <Route path="/ilmuan" element={<SatwaView />} />

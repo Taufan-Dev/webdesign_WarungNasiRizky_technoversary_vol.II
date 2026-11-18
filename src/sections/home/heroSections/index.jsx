@@ -83,7 +83,7 @@ export default function HeroSection() {
 
           <div className="gallery__item relative overflow-hidden">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/1/11/Leopard_%28Panthera_pardus%29_%2852731299932%29.jpg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiggFfTKVP8RN_kIa-Vb-rUKj_ao_2uJfwqMrpx9AHg&s=10"
               alt="Kegiatan"
               className="w-full h-full object-cover"
             />
@@ -115,7 +115,7 @@ export default function HeroSection() {
 
           <div className="gallery__item relative overflow-hidden">
             <img
-              src="./landingPage/2.jpg"
+              src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/97/b7/6f/tumpak-sewu-waterfalls.jpg?w=1200&h=1200&s=1"
               alt="Kegiatan"
               className="w-full h-full object-cover"
             />
@@ -151,7 +151,7 @@ export default function HeroSection() {
 
           <div className="gallery__item relative overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1528605248644-14dd04022da1?q=80&w=500"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1SPKZKnPwumiAoUh7IzsQ0yrGtckguo7eO_mbu1oX06rz9mTR-vYpDzA&s=10"
               alt="Kegiatan"
               className="w-full h-full object-cover"
             />

@@ -1,0 +1,474 @@
+[
+  {
+    "id": 1,
+    "slug": "taman-nasional-komodo",
+    "coordinates": [-8.56, 119.49],
+    "name": {
+      "ID": "Taman Nasional Komodo",
+      "EN": "Komodo National Park"
+    },
+    "region": {
+      "ID": "Manggarai Barat, Nusa Tenggara Timur",
+      "EN": "West Manggarai, East Nusa Tenggara"
+    },
+    "category": {
+      "ID": "Situs Warisan Dunia UNESCO",
+      "EN": "UNESCO World Heritage Site"
+    },
+    "shortDesc": {
+      "ID": "Gugusan pulau vulkanik savana eksotis yang menjadi rumah terakhir bagi kadal purba terbesar di dunia.",
+      "EN": "An exotic volcanic savanna archipelago serving as the last home for the world's largest living ancient lizard."
+    },
+    "fullDesc": {
+      "ID": "Taman Nasional Komodo terletak di kawasan Selat Sape antara Pulau Sumbawa dan Pulau Flores. Terdiri dari tiga pulau utama—Komodo, Rinca, dan Padar—serta puluhan pulau karang kecil lainnya. Kawasan ini bukan hanya melindungi reptil purba Komodo (Varanus komodoensis), melainkan juga melestarikan keanekaragaman hayati terumbu karang kelas dunia, lumba-lumba, pari manta, dan penyu hijau.",
+      "EN": "Komodo National Park lies within the Wallacea biogeographical zone between Sumbawa and Flores islands. Comprising three major islands—Komodo, Rinca, and Padar—alongside dozens of islets, it protects both the prehistoric Komodo dragon and one of the globe's richest coral reef marine ecosystems."
+    },
+    "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?q=80&w=2400",
+    "area": "1.733 km²",
+    "established": "1980",
+    "elevation": "0 - 738 mdpl",
+    "keySpecies": ["Komodo (Varanus komodoensis)", "Pari Manta Karang", "Rusa Timor", "Kakatua Jambul Kuning"],
+    "highlights": {
+      "ID": [
+        "Panorama tiga teluk ikonis di Puncak Pulau Padar",
+        "Habitat alami Komodo di Loh Liang dan Loh Buaya",
+        "Pantai Pink (Pink Beach) dengan pasir foraminifera kemerahan alami",
+        "Titik selam Manta Point dengan arus laut kaya plankton"
+      ],
+      "EN": [
+        "Iconic three-bay panoramic viewpoint atop Padar Island",
+        "Wild Komodo encounters at Loh Liang and Loh Buaya",
+        "Natural pink sands formed by red organ pipe coral fragments",
+        "Manta Point drift diving among oceanic feeding stations"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Wajib selalu didampingi ranger (naturalist guide) berlisensi resmi",
+        "Dilarang memberi makan satwa liar dan menjaga jarak aman minimal 5 meter",
+        "Bawa kembali seluruh sampah pribadi dan jangan gunakan plastik sekali pakai",
+        "Gunakan tabir surya aman karang (reef-safe sunscreen)"
+      ],
+      "EN": [
+        "Always remain accompanied by an official licensed park naturalist guide",
+        "Strictly refrain from feeding wildlife and maintain at least 5m safe distance",
+        "Pack out all personal waste; single-use plastics are strictly banned",
+        "Use exclusively mineral reef-safe sun protection products"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "slug": "raja-ampat",
+    "coordinates": [-0.53, 130.65],
+    "name": {
+      "ID": "Kepulauan Raja Ampat",
+      "EN": "Raja Ampat Marine Reserve"
+    },
+    "region": {
+      "ID": "Kepulauan Raja Ampat, Papua Barat Daya",
+      "EN": "Raja Ampat Islands, Southwest Papua"
+    },
+    "category": {
+      "ID": "Episentrum Segitiga Karang Dunia",
+      "EN": "Coral Triangle Global Epicenter"
+    },
+    "shortDesc": {
+      "ID": "Surga kepulauan karst karst tropis dengan keanekaragaman hayati bawah laut tertinggi di muka bumi.",
+      "EN": "Tropical limestone karst paradise holding the highest recorded marine biodiversity on the planet."
+    },
+    "fullDesc": {
+      "ID": "Raja Ampat adalah benteng konservasi perairan Nusantara yang menyimpan lebih dari 540 jenis karang keras (75% dari total karang dunia), 1.000 lebih jenis ikan karang, serta 700 jenis moluska. Di atas daratannya, hutan perbukitan pulau Waigeo dan Batanta menjadi suaka perlindungan burung Cenderawasih merah dan flora endemik Papua.",
+      "EN": "Raja Ampat represents the heart of the global Coral Triangle, sheltering over 540 hard coral species (75% of global total), 1,000+ reef fish varieties, and 700 mollusk species. On land, its pristine karst rainforests provide sanctum for the Red Bird-of-Paradise and unique Papuan flora."
+    },
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2400",
+    "area": "46.108 km²",
+    "established": "2007 (Kawasan Konservasi Laut)",
+    "elevation": "0 - 1.184 mdpl",
+    "keySpecies": ["Cenderawasih Merah", "Hiu Karang Karpet (Wobbegong)", "Pari Manta", "Dugong"],
+    "highlights": {
+      "ID": [
+        "Laguna gugusan karst Wayag dan Piaynemo yang menakjubkan",
+        "Habitat pengamatan tari Cenderawasih fajar di Desa Sawinggrai",
+        "Gua purba telapak tangan cadas prasejarah Pulau Misool",
+        "Kanal laut terumbu karang jernih di Selat Dampier"
+      ],
+      "EN": [
+        "Spectacular turquoise lagoons among Wayag and Piaynemo karst clusters",
+        "Dawn Bird-of-Paradise observation posts in Sawinggrai village",
+        "Prehistoric cliff rock art and stalactite sea caves in Misool",
+        "Clear current coral reef drift diving across Dampier Strait"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Membeli Kartu Tarif Layanan Pemeliharaan Lingkungan (TLPL) resmi",
+        "Dilarang menginjak karang atau menyentuh biota laut saat snorkeling/diving",
+        "Hormati adat istiadat dan zona larang tangkap tradisional (Sasi)",
+        "Jangan menyalakan api unggun di pulau tak berpenghuni"
+      ],
+      "EN": [
+        "Hold an authorized Environmental Maintenance Environmental Card (TLPL)",
+        "Strict non-contact rule with coral polyps and marine megafauna",
+        "Respect indigenous Papuan marine tenure prohibitions (Sasi customary law)",
+        "Open fires strictly prohibited on uninhabited conservation cays"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "slug": "taman-nasional-tanjung-puting",
+    "coordinates": [-2.85, 111.95],
+    "name": {
+      "ID": "Taman Nasional Tanjung Puting",
+      "EN": "Tanjung Puting National Park"
+    },
+    "region": {
+      "ID": "Kotawaringin Barat, Kalimantan Tengah",
+      "EN": "West Kotawaringin, Central Kalimantan"
+    },
+    "category": {
+      "ID": "Cagar Biosfer Dunia UNESCO",
+      "EN": "UNESCO Biosphere Reserve"
+    },
+    "shortDesc": {
+      "ID": "Pusat suaka orangutan liar dan hutan rawa gambut terbesar di dunia di sepanjang Sungai Sekonyer.",
+      "EN": "The world's foremost wild orangutan sanctuary and peat swamp forest preserve along Sekonyer River."
+    },
+    "fullDesc": {
+      "ID": "Tanjung Puting merupakan suaka bagi populasi liar orangutan Kalimantan (Pongo pygmaeus) terbesar di dunia. Dikelilingi hutan dipterokarpa dan rawa air hitam, pengunjung menyusuri sungai dengan perahu klotok tradisional menuju stasiun riset legendaris Camp Leakey yang dirintis oleh Dr. Biruté Mary Galdikas.",
+      "EN": "Tanjung Puting preserves the world's largest wild population of Bornean orangutans. Navigated via traditional wooden klotok riverboats, visitors journey along blackwater tributaries into historic research outposts such as Camp Leakey, founded by renowned primatologist Dr. Biruté Galdikas."
+    },
+    "image": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=2400",
+    "area": "4.150 km²",
+    "established": "1982",
+    "elevation": "0 - 100 mdpl",
+    "keySpecies": ["Orangutan Kalimantan", "Bekantan (Nasalis larvatus)", "Beruang Madu", "Buaya Senyulong"],
+    "highlights": {
+      "ID": [
+        "Pusat Rehabilitasi dan Riset Primata Dunia di Camp Leakey",
+        "Ekspedisi susur sungai Sekonyer dengan perahu klotok ramah lingkungan",
+        "Pohon-pohon rawa tempat berkumpulnya kelompok bekantan saat senja",
+        "Keheningan hutan rawa gambut penyerap karbon dunia"
+      ],
+      "EN": [
+        "Historic Camp Leakey Primatological Research & Rehabilitation Center",
+        "Eco-friendly wooden klotok houseboat river cruise along Sekonyer",
+        "Dusk gatherings of Proboscis monkey troops in riparian boughs",
+        "Immense carbon sink peat swamp wilderness teeming with hornbills"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Jaga jarak minimal 7 meter dan hindari kontak mata langsung dengan orangutan",
+        "Dilarang membawa makanan terbuka atau makan di depan primata",
+        "Gunakan perahu dengan mesin berknalpot peredam emisi rendah",
+        "Gunakan alas kaki tertutup untuk menjelajah jalur trek gambut"
+      ],
+      "EN": [
+        "Maintain minimum 7-meter distance without staring directly at primates",
+        "Never consume food openly or feed any wildlife within the reserve",
+        "Choose low-noise, eco-certified klotok boat operators",
+        "Wear sturdy boots suitable for wet peat boardwalk trails"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "slug": "taman-nasional-ujung-kulon",
+    "coordinates": [-6.75, 105.33],
+    "name": {
+      "ID": "Taman Nasional Ujung Kulon",
+      "EN": "Ujung Kulon National Park"
+    },
+    "region": {
+      "ID": "Pandeglang, Banten",
+      "EN": "Pandeglang, Banten"
+    },
+    "category": {
+      "ID": "Situs Warisan Dunia UNESCO Pertama di Indonesia",
+      "EN": "First UNESCO World Heritage Site in Indonesia"
+    },
+    "shortDesc": {
+      "ID": "Semenanjung belantara purba di ujung barat Pulau Jawa, benteng terakhir badak bercula satu di bumi.",
+      "EN": "Ancient jungle peninsula at the western tip of Java, safeguarding the last Javan rhinos on Earth."
+    },
+    "fullDesc": {
+      "ID": "Terletak di ujung paling barat Pulau Jawa dan mencakup kepulauan vulkanik Krakatau, Taman Nasional Ujung Kulon merupakan ekosistem hutan hujan dataran rendah alami terakhir yang tersisa di Jawa. Kawasan ini merupakan habitat tunggal bagi badak Jawa (Rhinoceros sondaicus) yang statusnya amat kritis dari kepunahan.",
+      "EN": "Situated at the westernmost tip of Java and including the volcanic Krakatoa archipelago, Ujung Kulon encompasses Java's last intact extensive lowland rainforest. It serves as the sole remaining wild sanctuary for the critically endangered single-horned Javan rhinoceros."
+    },
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2400",
+    "area": "1.229 km²",
+    "established": "1991",
+    "elevation": "0 - 620 mdpl",
+    "keySpecies": ["Badak Jawa (Rhinoceros sondaicus)", "Banteng Jawa", "Owa Jawa", "Macan Tutul Jawa"],
+    "highlights": {
+      "ID": [
+        "Padang penggembalaan banteng liar di Cidaon",
+        "Kano menyusuri sungai rawa mangrove Cigenter",
+        "Panorama kepulauan vulkanik Anak Krakatau di Selat Sunda",
+        "Habitat rintis pemantauan camera-trap badak Jawa"
+      ],
+      "EN": [
+        "Wild Javan banteng grazing pastures across Cidaon savanna",
+        "Silent canoeing along Cigenter mangrove tidal river",
+        "Volcanic seascapes surrounding Anak Krakatau caldera in Sunda Strait",
+        "High-security sanctuary corridors protected by Rhino Protection Units"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Wajib mengurus Surat Izin Masuk Kawasan Konservasi (SIMAKSI)",
+        "Zona inti badak Jawa steril dari kunjungan wisata umum demi keamanan satwa",
+        "Dilarang membuat kegaduhan dan membawa zat kimia berbahaya",
+        "Patuhi instruksi tim Polisi Kehutanan dan Rhino Protection Unit (RPU)"
+      ],
+      "EN": [
+        "Must register and secure official Conservation Entry Permit (SIMAKSI)",
+        "Rhino Core Zone strictly off-limits to casual tourists for protection",
+        "Noise discipline required at all observation points and shelters",
+        "Adhere strictly to Forestry Ranger and Rhino Protection Unit instructions"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "slug": "taman-nasional-gunung-leuser",
+    "coordinates": [3.50, 97.50],
+    "name": {
+      "ID": "Taman Nasional Gunung Leuser",
+      "EN": "Mount Leuser National Park"
+    },
+    "region": {
+      "ID": "Aceh & Sumatera Utara",
+      "EN": "Aceh & North Sumatra"
+    },
+    "category": {
+      "ID": "Warisan Hutan Hujan Tropis Sumatera",
+      "EN": "Tropical Rainforest Heritage of Sumatra"
+    },
+    "shortDesc": {
+      "ID": "Satu-satunya suaka bumi tempat harimau, gajah, badak, dan orangutan hidup berdampingan di alam liar.",
+      "EN": "The only refuge on Earth where tigers, elephants, rhinos, and orangutans co-exist in the wild."
+    },
+    "fullDesc": {
+      "ID": "Membentang di jajaran Pegunungan Bukit Barisan, Taman Nasional Gunung Leuser adalah salah satu bentang hutan hujan terluas di Asia Tenggara. Keunikan tertingginya adalah menjadi rumah bagi empat mamalia besar paling ikonik di dunia secara bersamaan: Orangutan Sumatera, Harimau Sumatera, Gajah Sumatera, dan Badak Sumatera.",
+      "EN": "Stretching across the Barisan Mountain Range, Gunung Leuser represents one of Southeast Asia's greatest wilderness reserves. Its crowning ecological glory is sheltering four of the world's most iconic megaspecies in coexistence: the Sumatran orangutan, tiger, elephant, and rhinoceros."
+    },
+    "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=2400",
+    "area": "10.946 km²",
+    "established": "1980",
+    "elevation": "0 - 3.404 mdpl",
+    "keySpecies": ["Harimau Sumatera", "Orangutan Sumatera", "Gajah Sumatera", "Bunga Rafflesia arnoldii"],
+    "highlights": {
+      "ID": [
+        "Jalur pengamatan orangutan liar Bukit Lawang",
+        "Pusat konservasi dan patroli gajah Tangkahan",
+        "Habitat mekarnya bunga raksasa Rafflesia arnoldii",
+        "Ekspedisi pendakian Puncak Gunung Leuser berketinggian 3.404 mdpl"
+      ],
+      "EN": [
+        "Wild canopy orangutan tracking routes near Bukit Lawang",
+        "Elephant conservation and anti-poaching river patrols in Tangkahan",
+        "Blooming grounds of the colossal Rafflesia arnoldii parasitic bloom",
+        "High-altitude rainforest expeditions to Mt. Leuser summit (3,404 m)"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Dilarang trekking tanpa ditemani pemandu lokal teregistrasi ITGA-HPI",
+        "Jaga ketenangan dan tidak meninggalkan sisa makanan organik/anorganik",
+        "Tidak mendekati induk satwa dengan anak demi keselamatan bersama",
+        "Kenakan perlengkapan penangkal lintah dan pakaian lengan panjang"
+      ],
+      "EN": [
+        "Never embark on jungle treks without accredited local guide",
+        "Pack out 100% of organic and inorganic waste from campsites",
+        "Maintain respectful distance from nursing wild mothers with infants",
+        "Wear leech-proof socks and breathable protective jungle apparel"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "slug": "taman-nasional-bromo-tengger-semeru",
+    "coordinates": [-7.94, 112.95],
+    "name": {
+      "ID": "Taman Nasional Bromo Tengger Semeru",
+      "EN": "Bromo Tengger Semeru National Park"
+    },
+    "region": {
+      "ID": "Pasuruan, Probolinggo, Lumajang, Malang, Jawa Timur",
+      "EN": "East Java"
+    },
+    "category": {
+      "ID": "Kaldera Vulkanik Kuno & Warisan Geologi",
+      "EN": "Ancient Volcanic Caldera & Geological Wonder"
+    },
+    "shortDesc": {
+      "ID": "Bentang kaldera pasir berbisik yang spektakuler dengan kawah aktif Bromo dan puncak abadi Semeru.",
+      "EN": "Spectacular sea of whispering sands surrounding active crater Bromo beneath majestic Mount Semeru."
+    },
+    "fullDesc": {
+      "ID": "Taman Nasional Bromo Tengger Semeru memiliki kaldera vulkanik seluas 5.250 hektare dengan lautan pasir unik yang berada di ketinggian lebih dari 2.000 mdpl. Selain keindahan geologinya yang magis, kawasan ini menjadi rumah bagi masyarakat adat Tengger yang menjaga kearifan tradisi Yadnya Kasada.",
+      "EN": "Bromo Tengger Semeru boasts an immense 5,250-hectare ancient caldera featuring a high-altitude sea of volcanic sand over 2,000 meters above sea level. Beside breathtaking vistas, it protects the sacred spiritual landscape of the indigenous Tenggerese people and the Yadnya Kasada ritual."
+    },
+    "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df8?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1605649487212-47bdab064df8?q=80&w=2400",
+    "area": "502 km²",
+    "established": "1982",
+    "elevation": "1.000 - 3.676 mdpl",
+    "keySpecies": ["Elang Jawa (Nisaetus bartelsi)", "Macan Tutul Jawa", "Bunga Edelweiss Jawa", "Lutung Jawa"],
+    "highlights": {
+      "ID": [
+        "Matahari terbit dramatis dari Penanjakan 1 menghadap kaldera",
+        "Lautan Pasir Berbisik dan Kawah Vulkanik Aktif Bromo",
+        "Danau jernih Ranu Kumbolo di jalur pendakian Gunung Semeru",
+        "Kearifan lokal upacara persembahan Yadnya Kasada masyarakat Tengger"
+      ],
+      "EN": [
+        "Dramatic sunrise across the caldera from Penanjakan viewpoint",
+        "The whispering sea of volcanic sand and Bromo active crater rim",
+        "Mirror-glass waters of Ranu Kumbolo alpine mountain lake",
+        "Cultural sanctity of the annual Tenggerese Yadnya Kasada ceremony"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Bawa masker pelindung debu vulkanik dan pakaian hangat tahan suhu dingin",
+        "Dilarang memetik bunga abadi Edelweiss Jawa (Anaphalis javanica)",
+        "Gunakan jeep resmi dan tidak mengendarai kendaraan di luar jalur pasir",
+        "Hormati kesakralan kawah Bromo dan tempat peribadatan Pura Poten"
+      ],
+      "EN": [
+        "Carry volcanic ash dust masks and windproof sub-zero thermal jackets",
+        "Strict ban against picking wild Javanese Edelweiss (Anaphalis javanica)",
+        "Ride authorized 4x4 community jeeps and keep to marked sand tracks",
+        "Respect the sacred grounds of the Poten Hindu temple and crater rim"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "slug": "taman-nasional-bunaken",
+    "coordinates": [1.62, 124.76],
+    "name": {
+      "ID": "Taman Nasional Bunaken",
+      "EN": "Bunaken Marine National Park"
+    },
+    "region": {
+      "ID": "Manado, Sulawesi Utara",
+      "EN": "Manado, North Sulawesi"
+    },
+    "category": {
+      "ID": "Dinding Karang Vertikal Karang Dunia",
+      "EN": "World Oceanic Vertical Coral Walls"
+    },
+    "shortDesc": {
+      "ID": "Dinding terumbu karang vertikal bawah laut legendaris dengan palung laut sedalam ribuan meter.",
+      "EN": "Legendary undersea vertical coral drop-offs plummeting into thousands of meters of oceanic abyss."
+    },
+    "fullDesc": {
+      "ID": "Taman Nasional Bunaken terletak di Teluk Manado dan menjadi pionir kawasan konservasi laut di Indonesia. Terkenal di kalangan penyelam internasional karena dinding karang vertikal (drop-off) raksasa sedalam 25–50 meter yang diselimuti oleh bunga karang raksasa, penyu sisik, dan ribuan spesies ikan tropis cerah.",
+      "EN": "Located in Manado Bay, Bunaken is a pioneer marine reserve in Southeast Asia. Celebrated globally for dramatic vertical underwater cliff drop-offs descending 25-50 meters, its reefs are laden with giant gorgonian sea fans, sea turtles, and kaleidoscopic schools of reef fish."
+    },
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=2400",
+    "area": "890 km²",
+    "established": "1991",
+    "elevation": "0 - 600 mdpl (kedalaman laut hingga 1.560 m)",
+    "keySpecies": ["Penyu Sisik & Penyu Hijau", "Ikan Purba Coelacanth", "Kima Raksasa (Tridacna)", "Lumba-lumba Pemintal"],
+    "highlights": {
+      "ID": [
+        "Dinding karang vertikal (vertical coral walls) di pesisir Pulau Bunaken",
+        "Suaka populasi penyu laut hijau dan penyu sisik raksasa",
+        "Pemandangan Gunung Manado Tua berbentuk kerucut sempurna di seberang laut",
+        "Koleksi kima raksasa dan terumbu karang purba yang lestari"
+      ],
+      "EN": [
+        "Vertical coral drop-offs teeming with vibrant marine life",
+        "Thriving resident populations of hawksbill and green sea turtles",
+        "Breathtaking silhouette of dormant volcanic cone Mt. Manado Tua",
+        "Pristine giant clam sanctuaries and thriving deep-sea biodiversity"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Gunakan pelampung dan dilarang menginjak karang dangkal saat pasang surut",
+        "Kamera bawah air dilarang menggunakan lampu kilat langsung ke mata penyu",
+        "Bawa pulang seluruh kemasan makanan saat mengunjungi pulau Bunaken dan Siladen",
+        "Dukung konservasi dengan membayar tiket masuk resmi Taman Nasional"
+      ],
+      "EN": [
+        "Always wear snorkeling vests; never step on shallow reef flats",
+        "Underwater flashes must never be pointed directly into turtle eyes",
+        "Zero-waste policy on Bunaken, Siladen, and Manado Tua islands",
+        "Support local rangers by displaying official marine park conservation pins"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "slug": "taman-nasional-lorentz",
+    "coordinates": [-4.75, 137.83],
+    "name": {
+      "ID": "Taman Nasional Lorentz",
+      "EN": "Lorentz National Park"
+    },
+    "region": {
+      "ID": "Papua Tengah, Papua Pegunungan, Papua Selatan",
+      "EN": "Papua"
+    },
+    "category": {
+      "ID": "Taman Nasional Terbesar di Asia Tenggara & Warisan Dunia UNESCO",
+      "EN": "Largest National Park in Southeast Asia & UNESCO World Heritage"
+    },
+    "shortDesc": {
+      "ID": "Kawasan konservasi terlengkap dari gletser salju khatulistiwa hingga hutan mangrove pesisir Arafura.",
+      "EN": "The most ecologically complete reserve spanning equatorial glaciers to coastal Arafura mangroves."
+    },
+    "fullDesc": {
+      "ID": "Taman Nasional Lorentz adalah cagar alam terluas di Asia Tenggara (2,4 juta hektare) dan memiliki bentang ekosistem paling lengkap di kawasan Pasifik Barat: membentang dari puncak bersalju abadi Puncak Jaya (4.884 mdpl), danau alpin, padang rumput sub-alpin, hutan lumut pegunungan, hingga rawa air tawar dan mangrove tropis di pesisir Laut Arafura.",
+      "EN": "Lorentz National Park is Southeast Asia's vastest nature reserve (2.4 million hectares) with an unbroken transect from equatorial glacier icecaps atop Puncak Jaya (4,884 m) through alpine tundra, mossy cloud forests, lowland rainforests, and mangrove wetlands bordering the Arafura Sea."
+    },
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000",
+    "panorama": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2400",
+    "area": "24.500 km²",
+    "established": "1997",
+    "elevation": "0 - 4.884 mdpl",
+    "keySpecies": ["Kanguru Pohon (Dendrolagus mbaiso)", "Kasuari Gelambir Ganda", "Burung Puyuh Salju", "Echidna Moncong Panjang"],
+    "highlights": {
+      "ID": [
+        "Puncak Jaya (Carstensz Pyramid) dengan lapisan salju abadi khatulistiwa",
+        "Keanekaragaman ekosistem dari pantai mangrove hingga puncak es glasial",
+        "Rumah bagi suku adat tradisional Amungme, Dani, Asmat, dan Sempan",
+        "Suaka primata berkantung dan flora kuno zaman Gondwana"
+      ],
+      "EN": [
+        "Equatorial tropical icecaps crowning Carstensz Pyramid (4,884 m)",
+        "Unbroken ecological transect from marine coasts to alpine glaciers",
+        "Ancestral home of indigenous Amungme, Dani, Asmat, and Sempan tribes",
+        "Living museum of ancient Gondwanan relic marsupials and montane flora"
+      ]
+    },
+    "guidelines": {
+      "ID": [
+        "Ekspedisi wajib memiliki izin resmi khusus, pemeriksaan medis, dan pemandu bersertifikasi",
+        "Dilarang mengambil artefak geologi, lumut alpin, atau tanaman endemik",
+        "Hormati wilayah sakral dan hukum adat suku setempat",
+        "Prinsip 'Leave No Trace' ketat: semua sampah wajib dibawa turun kembali"
+      ],
+      "EN": [
+        "Special official expedition permits, medical clearance, and certified guides required",
+        "Strictly illegal to collect mineral specimens, alpine moss, or endemic plants",
+        "Revere indigenous tribal territories, taboo sites, and customary guidelines",
+        "Rigorous Leave No Trace policy: 100% of expedition equipment and waste packed out"
+      ]
+    }
+  }
+]
