@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "slug": "tanam-15000-mangrove-muara-gembong",
+    "title": {
+      "ID": "Aksi Akbar: Tanam 15.000 Bibit Mangrove Pesisir Muara Gembong",
+      "EN": "Grand Action: Planting 15,000 Mangrove Seedlings in Muara Gembong"
+    },
+    "category": {
+      "ID": "Restorasi Mangrove",
+      "EN": "Mangrove Restoration"
+    },
+    "desc": {
+      "ID": "Bergabung bersama ratusan relawan untuk merehabilitasi sabuk hijau pelindung pesisir utara dari ancaman abrasi dan kenaikan permukaan air laut.",
+      "EN": "Join hundreds of volunteers to restore coastal mangrove green belts shielding vulnerable shorelines from sea level rise and erosion."
+    },
+    "location": {
+      "ID": "Pesisir Muara Gembong, Jawa Barat",
+      "EN": "Muara Gembong Coast, West Java"
+    },
+    "date": "28 Nov 2026",
+    "time": "07.00 - 15.00 WIB",
+    "quota": "50 / 100 Relawan",
+    "organizer": "Rimba Pesisir Foundation",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=1200",
+    "requirements": {
+      "ID": [
+        "Sehat jasmani dan siap beraktivitas di area lahan basah berlumpur",
+        "Usia minimal 17 tahun atau didampingi wali",
+        "Membawa pakaian ganti, topi, dan sepatu boots/tertutup",
+        "Memiliki komitmen hadir penuh selama rangkaian kegiatan"
+      ],
+      "EN": [
+        "Physically fit and prepared for wetland mud terrain activities",
+        "Minimum age 17 or accompanied by a guardian",
+        "Bring change of clothes, hat, and boots/closed shoes",
+        "Committed to full participation throughout the session"
+      ]
+    },
+    "benefits": {
+      "ID": [
+        "Kaos Relawan Resmi RIMBA & Topi Lapangan",
+        "Sertifikat Elektronik Relawan Konservasi (e-Certificate)",
+        "Konsumsi makan siang & bekal hidrasi ramah lingkungan",
+        "Transportasi shuttle gratis dari titik kumpul (Stasiun Bekasi)"
+      ],
+      "EN": [
+        "Official RIMBA Volunteer T-Shirt & Field Cap",
+        "Official Conservation Volunteer e-Certificate",
+        "Eco-friendly meals & hydration refreshments",
+        "Free shuttle transport from meeting point"
+      ]
+    },
+    "content": {
+      "ID": "Abrasi pesisir utara Muara Gembong telah menenggelamkan puluhan hektare tambak dan mengancam pemukiman nelayan setempat. Menanam pohon mangrove jenis Rhizophora mucronata adalah solusi alami paling efektif untuk menahan hempasan ombak, mengendapkan lumpur, dan menyerap karbon biru dalam jumlah besar.\n\nDalam aksi akbar ini, relawan akan dibagi ke dalam kelompok-kelompok kecil yang dipandu oleh pegiat konservasi mangrove lokal. Masing-masing tim bertugas menancapkan ajir bambu, mengikat bibit secara aman, dan mencatat titik koordinat GPS tanam.\n\nMari luangkan akhir pekanmu untuk memberikan dampak nyata bagi kelestarian garis pantai Nusantara. Bersama kita jaga sabuk hijau Indonesia!",
+      "EN": "Coastal erosion in Muara Gembong has submerged tens of hectares of productive land and threatened local fishing villages. Planting Rhizophora mangroves is the most effective nature-based solution to buffer fierce waves, trap sediment, and sequester massive blue carbon reserves.\n\nIn this flagship action, volunteers will be organized into small squads mentored by local mangrove stewards. Squads will set bamboo stakes, secure saplings, and record GPS planting points.\n\nSpend your weekend creating a lasting impact for Indonesia's coastal resilience. Together we restore our blue planet!"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "bersih-sungai-ciliwung-audit-plastik",
+    "title": {
+      "ID": "Bersih Sungai & Audit Sampah Plastik Daerah Aliran Ciliwung",
+      "EN": "River Cleanup & Plastic Brand Audit on Ciliwung Basin"
+    },
+    "category": {
+      "ID": "Bersih Sungai",
+      "EN": "River Cleanup"
+    },
+    "desc": {
+      "ID": "Menyisir bantaran sungai untuk menjaring puluhan ton sampah anorganik sekaligus melakukan audit polusi plastik sebelum mencemari samudra.",
+      "EN": "Patrolling riverbanks to trap tons of plastic refuse while conducting brand audits before waste flushes into the open ocean."
+    },
+    "location": {
+      "ID": "Bantaran Ciliwung, Jakarta Timur",
+      "EN": "Ciliwung Riverbanks, East Jakarta"
+    },
+    "date": "05 Des 2026",
+    "time": "08.00 - 13.00 WIB",
+    "quota": "35 / 50 Relawan",
+    "organizer": "Rimba River Taskforce",
+    "image": "https://images.unsplash.com/photo-1618477461853-cf6ed80faba5?q=80&w=1200",
+    "requirements": {
+      "ID": [
+        "Sehat jasmani dan bersemangat membersihkan lingkungan",
+        "Membawa sarung tangan karet/kain dan tumbler pribadi",
+        "Mematuhi SOP keselamatan di dekat aliran sungai"
+      ],
+      "EN": [
+        "Physically fit and enthusiastic for community cleanup",
+        "Bring reusable heavy-duty gloves and personal tumbler",
+        "Strictly adhere to riverbank safety SOPs"
+      ]
+    },
+    "benefits": {
+      "ID": [
+        "Perlengkapan penjaring sampah & kantong pilah",
+        "Sertifikat Relawan Aksi Bersih",
+        "Snack sehat & hidrasi tanpa kemasan plastik sekali pakai"
+      ],
+      "EN": [
+        "Waste tongs & sorted collection sacks provided",
+        "River Cleanup Volunteer Certificate",
+        "Zero-plastic healthy snacks and refreshments"
+      ]
+    },
+    "content": {
+      "ID": "Delapan puluh persen sampah laut berasal dari daratan yang terbawa melalui sungai. Aksi ini menggabungkan evakuasi fisik sampah terapung dengan audit merek sampah plastik, guna mendorong tanggung jawab produsen (EPR) dalam membatasi kemasan plastik sekali pakai.\n\nRelawan akan belajar memilah sampah berdasarkan 7 kategori polimer plastik dan menyaksikan langsung bagaimana sampah yang terkumpul didaur ulang menjadi produk bernilai guna tinggi.",
+      "EN": "Eighty percent of ocean debris travels through inland waterways. This initiative pairs hands-on debris retrieval with brand waste audits to demand producer responsibility (EPR) in eliminating single-use packaging.\n\nVolunteers will learn practical plastic polymer sorting and see firsthand how recovered materials are routed into verified circular upcycling."
+    }
+  },
+  {
+    "id": 3,
+    "slug": "patroli-ranger-koridor-harimau-sumatera",
+    "title": {
+      "ID": "Patroli Bersama Ranger: Monitoring Koridor Harimau Sumatera",
+      "EN": "Co-Patrol with Rangers: Sumatran Tiger Corridor Monitoring"
+    },
+    "category": {
+      "ID": "Perlindungan Satwa",
+      "EN": "Wildlife Protection"
+    },
+    "desc": {
+      "ID": "Ikuti ekspedisi patroli hutan terpadu bersama forest ranger untuk memasang camera trap dan membersihkan jerat liar pemburu di zona penyangga.",
+      "EN": "Embark on an integrated forest patrol expedition with rangers to inspect camera traps and clear illegal snares in buffer zones."
+    },
+    "location": {
+      "ID": "Taman Nasional Bukit Barisan Selatan, Lampung",
+      "EN": "Bukit Barisan Selatan National Park, Lampung"
+    },
+    "date": "12 Des 2026",
+    "time": "3 Hari 2 Malam (Kemah Alam)",
+    "quota": "12 / 20 Relawan",
+    "organizer": "Rimba Tiger Project",
+    "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=1200",
+    "requirements": {
+      "ID": [
+        "Ketahanan fisik prima untuk trekking hutan hujan tropis",
+        "Memiliki pengalaman mendaki gunung/kemah di alam liar",
+        "Menandatangani pakta integritas kerahasiaan titik koordinat satwa langka"
+      ],
+      "EN": [
+        "Excellent physical stamina for tropical rainforest trekking",
+        "Prior camping/wilderness hiking experience",
+        "Sign an integrity pledge keeping rare wildlife GPS coordinates confidential"
+      ]
+    },
+    "benefits": {
+      "ID": [
+        "Pelatihan identifikasi jejak satwa & kamera jebak oleh peneliti",
+        "Akomodasi tenda kemah, konsumsi lengkap, dan peralatan keselamatan",
+        "Piagam Kehormatan Relawan Pelindung Harimau"
+      ],
+      "EN": [
+        "Field tracking and camera trap training led by wildlife biologists",
+        "Tent lodging, full expedition meals, and emergency safety gear",
+        "Honorary Tiger Guardian Volunteer Fellowship"
+      ]
+    },
+    "content": {
+      "ID": "Harimau Sumatera membutuhkan habitat jelajah luas yang bebas dari jerat kawat. Melalui kegiatan patroli intensif bersama ranger, relawan akan menyusuri punggungan bukit, mengecek kartu memori camera trap, dan mencatat perjumpaan satwa liar.\n\nPengalaman langka ini memberikan wawasan mendalam mengenai kerasnya perjuangan para penjaga garis depan hutan Nusantara.",
+      "EN": "Sumatran Tigers need vast contiguous territory free from lethal snares. Partnering with dedicated rangers, volunteers traverse ridgelines, replace camera trap memory cards, and record animal tracks.\n\nThis rare immersion offers an unforgettable window into the courage of those defending Indonesia's wild frontiers."
+    }
+  },
+  {
+    "id": 4,
+    "slug": "rehabilitasi-terumbu-karang-pulau-komodo",
+    "title": {
+      "ID": "Rehabilitasi Terumbu Karang & Bersih Pantai Pulau Komodo",
+      "EN": "Coral Reef Rehabilitation & Beach Cleanup in Komodo Island"
+    },
+    "category": {
+      "ID": "Konservasi Laut",
+      "EN": "Marine Conservation"
+    },
+    "desc": {
+      "ID": "Transplantasi fragmen karang dengan media spider web dan evakuasi jaring hantu di perairan cagar biosfer terumbu karang.",
+      "EN": "Coral fragment transplantation with spider-web reef structures and ghost-net retrieval across coral biosphere waters."
+    },
+    "location": {
+      "ID": "Labuan Bajo & Pulau Komodo, NTT",
+      "EN": "Labuan Bajo & Komodo Island, NTT"
+    },
+    "date": "20 Des 2026",
+    "time": "2 Hari 1 Malam",
+    "quota": "25 / 40 Relawan",
+    "organizer": "Rimba Ocean Life",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=1200",
+    "requirements": {
+      "ID": [
+        "Bisa berenang (sertifikasi snorkeling atau diving nilai tambah)",
+        "Memiliki kepedulian tinggi terhadap kelestarian bawah laut",
+        "Usia 18 - 45 tahun"
+      ],
+      "EN": [
+        "Capable swimmer (snorkeling or scuba diving cert is a plus)",
+        "Deep dedication to marine ecosystem stewardship",
+        "Age between 18 - 45"
+      ]
+    },
+    "benefits": {
+      "ID": [
+        "Sesi edukasi biologi terumbu karang bersama penyelam profesional",
+        "Peralatan snorkeling & bahan transplantasi karang",
+        "Sertifikat Relawan Konservasi Pesisir"
+      ],
+      "EN": [
+        "Coral biology masterclass taught by marine biologists",
+        "Full snorkeling equipment and coral transplantation kits",
+        "Marine Conservation Volunteer Credential"
+      ]
+    },
+    "content": {
+      "ID": "Terumbu karang Segitiga Karang Dunia di sekitar Komodo merupakan rumah bagi ribuan biota laut eksotis. Menanam kembali fragmen karang sehat pada struktur kawat laba-laba mempercepat pemulihan terumbu karang yang rusak akibat pemanasan suhu laut.\n\nSelain di bawah air, relawan juga membersihkan sampah plastik di pantai-pantai bertelur penyu.",
+      "EN": "Coral reefs across the Coral Triangle near Komodo host thousands of exotic marine organisms. Outplanting healthy coral fragments onto spider web steel frames drastically speeds up reef recovery from thermal bleaching events.\n\nAbove water, volunteers will clear plastic debris on turtle nesting beaches."
+    }
+  },
+  {
+    "id": 5,
+    "slug": "sekolah-alam-anak-rimba-pedalaman",
+    "title": {
+      "ID": "Edukasi Lingkungan & Sekolah Alam Anak Rimba Pedalaman",
+      "EN": "Eco-Education & Forest School for Indigenous Children"
+    },
+    "category": {
+      "ID": "Edukasi Lingkungan",
+      "EN": "Eco Education"
+    },
+    "desc": {
+      "ID": "Mengajar sains alam, membaca buku konservasi, dan bermain bersama anak-anak masyarakat adat di sekitar suaka hutan hujan.",
+      "EN": "Teach natural sciences, read eco-storybooks, and mentor indigenous youth residing around protected rainforest sanctuaries."
+    },
+    "location": {
+      "ID": "Kawasan Adat Dayak, Kalimantan Barat",
+      "EN": "Dayak Ancestral Lands, West Borneo"
+    },
+    "date": "10 Jan 2027",
+    "time": "4 Hari 3 Malam",
+    "quota": "15 / 25 Relawan",
+    "organizer": "Rimba Education Outreach",
+    "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=1200",
+    "requirements": {
+      "ID": [
+        "Ramah anak, komunikatif, dan senang berbagi wawasan",
+        "Menghargai kearifan lokal dan adat istiadat warga setempat",
+        "Siap tinggal di homestay sederhana desa adat"
+      ],
+      "EN": [
+        "Child-friendly, expressive, and passionate about mentoring",
+        "Respectful of local customs and traditional knowledge",
+        "Ready to stay in modest village homestays"
+      ]
+    },
+    "benefits": {
+      "ID": [
+        "Pengalaman budaya autentik bersama warga adat Dayak",
+        "Akomodasi homestay & konsumsi makanan lokal sehat",
+        "Sertifikat Relawan Pendidik Konservasi"
+      ],
+      "EN": [
+        "Authentic cultural immersion with Dayak elders",
+        "Homestay lodging & traditional nourishing meals",
+        "Conservation Educator Volunteer Credential"
+      ]
+    },
+    "content": {
+      "ID": "Pendidikan lingkungan sejak usia dini adalah kunci keberlanjutan konservasi. Relawan akan membawakan modul sains sederhana, bercerita tentang satwa endemik orangutan dan enggang, serta menanam kebun bibit pohon buah bersama anak-anak desa.",
+      "EN": "Early environmental education is the bedrock of lasting conservation. Volunteers will conduct playful science experiments, share stories on endemic orangutans and hornbills, and cultivate native fruit tree nurseries."
+    }
+  },
+  {
+    "id": 6,
+    "slug": "bersih-pantai-penyelamatan-penyu-sukabumi",
+    "title": {
+      "ID": "Aksi Bersih Pantai & Penyelamatan Penyu Hijau Sukabumi",
+      "EN": "Coastal Debris Cleanup & Green Sea Turtle Sanctuary Watch"
+    },
+    "category": {
+      "ID": "Pesisir & Penyu",
+      "EN": "Sea Turtle Sanctuary"
+    },
+    "desc": {
+      "ID": "Membersihkan pasir pantai dari sampah plastik agar induk penyu dapat bertelur dengan aman dan melepasliarkan tukik ke laut bebas.",
+      "EN": "Clearing beach sands of plastic hazards so mother sea turtles nest securely, followed by twilight hatchling releases into the ocean."
+    },
+    "location": {
+      "ID": "Pantai Pangumbahan, Ujung Genteng, Sukabumi",
+      "EN": "Pangumbahan Beach, Ujung Genteng, Sukabumi"
+    },
+    "date": "18 Jan 2027",
+    "time": "2 Hari 1 Malam",
+    "quota": "20 / 30 Relawan",
+    "organizer": "Rimba Turtle Watch",
+    "image": "https://images.unsplash.com/photo-1518467166778-b88f373ffec7?q=80&w=1200",
+    "requirements": {
+      "ID": [
+        "Disiplin mengikuti instruksi ranger agar tidak mengganggu penyu bertelur",
+        "Tidak menggunakan lampu blitz/cahaya putih di malam hari",
+        "Siap melakukan ronda pantai malam hari"
+      ],
+      "EN": [
+        "Disciplined in following ranger guidelines to avoid disturbing turtles",
+        "No white flashes or intense lights on nocturnal beach patrols",
+        "Ready for midnight beach monitoring shifts"
+      ]
+    },
+    "benefits": {
+      "ID": [
+        "Menyaksikan langsung proses pelepasan tukik ke laut lepas",
+        "Penginapan dekat pos konservasi & makan lengkap",
+        "Sertifikat Sahabat Penyu Rimba"
+      ],
+      "EN": [
+        "Witness sunset sea turtle hatchling releases firsthand",
+        "Lodge accommodations near the station & full catering",
+        "Friend of Sea Turtles Volunteer Certificate"
+      ]
+    },
+    "content": {
+      "ID": "Pantai Pangumbahan Sukabumi merupakan salah satu habitat peneluran Penyu Hijau (Chelonia mydas) terpenting di Pulau Jawa. Sampah plastik dan jerat tali pancing sering menjebak tukik yang baru menetas menuju laut.\n\nAksi ini berfokus membersihkan jalur peneluran sepanjang 3 kilometer dan mendampingi ranger dalam menjaga sarang telur dari predator alami.",
+      "EN": "Pangumbahan Beach in Sukabumi is among the most vital Green Sea Turtle (Chelonia mydas) nesting coastlines in Java. Plastic bottles and discarded netting frequently entangle fresh hatchlings.\n\nThis campaign sweeps 3 kilometers of shoreline and assists rangers in safeguarding egg clutches from predators."
+    }
+  }
+]

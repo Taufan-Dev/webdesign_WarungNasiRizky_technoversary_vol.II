@@ -60,6 +60,7 @@ const Footer = () => {
         { label: "Home", path: "/" },
         { label: "Endemic Wildlife", path: "/satwa" },
         { label: "360° Reserves", path: "/maps" },
+        { label: "Volunteer Actions", path: "/aksi" },
         { label: "Articles", path: "/artikel" },
       ],
       services: [
@@ -80,6 +81,7 @@ const Footer = () => {
         { label: "Beranda", path: "/" },
         { label: "Satwa Endemik", path: "/satwa" },
         { label: "Kawasan 360°", path: "/maps" },
+        { label: "Aksi Relawan", path: "/aksi" },
         { label: "Artikel", path: "/artikel" },
       ],
       services: [

@@ -6,13 +6,21 @@
       "ID": "Misi Kritis Menyelamatkan Harimau Sumatera di Belantara Bukit Barisan",
       "EN": "The Critical Mission to Save Sumatran Tigers in Bukit Barisan Wilderness"
     },
+    "category": {
+      "ID": "Satwa Endemik",
+      "EN": "Endemic Fauna"
+    },
+    "desc": {
+      "ID": "Melacak jejak satwa predator puncak Nusantara melalui pemantauan camera trap dan patroli tanpa henti para ranger Rimba guna memulihkan koridor alam liar.",
+      "EN": "Tracking Nusantara's apex predator through camera trap surveillance and continuous patrols by Rimba forest rangers to restore critical wildlife corridors."
+    },
     "excerpt": {
       "ID": "Melacak jejak satwa predator puncak Nusantara melalui pemantauan camera trap dan patroli tanpa henti para ranger Rimba.",
       "EN": "Tracking Nusantara's apex predator through camera trap surveillance and continuous patrols by Rimba forest rangers."
     },
-    "category": {
-      "ID": "Satwa Endemik",
-      "EN": "Endemic Fauna"
+    "content": {
+      "ID": "Harimau Sumatera (Panthera tigris sumatrae) adalah subspesies harimau terakhir yang tersisa di Indonesia setelah kepunahan Harimau Jawa dan Harimau Bali. Sebagai predator puncak, keberadaan mereka menjadi indikator utama kesehatan ekosistem hutan hujan tropis Bukit Barisan.\n\nDalam beberapa dekade terakhir, fragmentasi habitat akibat perambahan lahan dan perburuan liar telah menempatkan populasi Harimau Sumatera pada status Kritis (Critically Endangered). Menanggapi kondisi darurat ini, Tim Ranger Rimba bersama Balai Konservasi Sumber Daya Alam (BKSDA) dan masyarakat adat setempat mengintensifkan patroli terpadu berbasis SMART Patrol.\n\nDengan memasang ratusan kamera jebak (camera trap) di titik-titik lintasan satwa strategis, tim berhasil mengidentifikasi pergerakan induk dan anak harimau, serta memetakan koridor jelajah aman. Data ini menjadi dasar penting untuk memperluas area perlindungan dan menindak tegas jerat-jerat liar yang mengancam kehidupan satwa langka ini.\n\nPelestarian Harimau Sumatera bukan hanya tentang menyelamatkan satu spesies karismatik, melainkan menjaga keseimbangan seluruh jaring makanan hutan tropis yang menjadi penyangga oksigen dan air bersih bagi jutaan masyarakat Indonesia.",
+      "EN": "The Sumatran Tiger (Panthera tigris sumatrae) is the last remaining tiger subspecies in Indonesia following the extinction of the Javan and Balinese tigers. As an apex predator, their presence serves as the primary barometer for the ecological health of the Bukit Barisan tropical rainforests.\n\nIn recent decades, habitat fragmentation from illegal logging, land conversion, and relentless poaching has pushed the Sumatran tiger to Critically Endangered status. In response, Rimba Rangers alongside national conservation agencies and local indigenous stewards have intensified community-based SMART patrols.\n\nDeploying extensive networks of camera traps across strategic corridors, researchers have successfully identified mother-and-cub pairs and mapped secure movement pathways. These findings are vital to expanding protected sanctuaries and eliminating illegal snares.\n\nProtecting the Sumatran tiger is not just about saving an iconic species; it is about preserving the entire canopy of life that sustains fresh water, clean air, and climate stability for millions across Indonesia."
     },
     "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=1200",
     "date": "14 Nov 2026",
@@ -29,15 +37,23 @@
       "ID": "Eksplorasi Virtual 360°: Menyusuri Kanopi Hutan Hujan Tropis Papua",
       "EN": "Virtual 360° Exploration: Navigating Pristine Rainforest Canopies of Papua"
     },
-    "excerpt": {
-      "ID": "Jelajahi keanekaragaman flora dan fauna purba dari ketinggian kanopi melalui teknologi peta interaktif dan panorama 360°.",
-      "EN": "Explore ancient flora and fauna diversity from high canopies through interactive 360° virtual mapping."
-    },
     "category": {
       "ID": "Kawasan 360°",
       "EN": "360° Reserves"
     },
-    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=800",
+    "desc": {
+      "ID": "Jelajahi keanekaragaman flora dan fauna purba dari ketinggian kanopi melalui teknologi peta interaktif dan panorama 360° tanpa meninggalkan rumah.",
+      "EN": "Explore ancient flora and fauna diversity from high canopies through interactive 360° virtual mapping and panoramic experiences."
+    },
+    "excerpt": {
+      "ID": "Jelajahi keanekaragaman flora dan fauna purba dari ketinggian kanopi melalui teknologi peta interaktif dan panorama 360°.",
+      "EN": "Explore ancient flora and fauna diversity from high canopies through interactive 360° virtual mapping."
+    },
+    "content": {
+      "ID": "Papua menyimpan bentang hutan hujan tropis primer terbesar di Asia Pasifik dengan tingkat endemisitas fauna dan flora yang tak tertandingi di dunia. Mulai dari Burung Cenderawasih yang memesona hingga anggrek raksasa purba, hutan ini adalah laboratorium alam hidup.\n\nMelalui platform RIMBA, teknologi digital dipadukan dengan konservasi untuk menghadirkan Eksplorasi Kawasan 360°. Para pengunjung web dapat menjelajahi titik-titik cagar alam terpencil, mengamati tingkatan strata kanopi hutan, dan mendengarkan rekaman lanskap suara (soundscape) alami secara imersif.\n\nInovasi ini bertujuan membuka mata publik dunia akan pentingnya menjaga keutuhan hutan adat Papua dari ancaman konversi skala besar, sekaligus memberdayakan generasi muda untuk belajar sains lingkungan secara langsung dan interaktif.",
+      "EN": "Papua holds the largest contiguous primary rainforest in the Asia-Pacific with an unrivaled level of endemic biodiversity. From radiant Birds of Paradise to prehistoric giant orchids, this forest is an extraordinary living laboratory.\n\nThrough the RIMBA platform, immersive digital technology is united with conservation to deliver 360° Reserve Exploration. Audiences can virtually wander through remote sanctuaries, inspect canopy strata, and listen to authentic bioacoustic soundscapes.\n\nThis breakthrough seeks to illuminate the vital imperative of preserving ancestral Papuan lands against land grabs while empowering youth worldwide to experience conservation science firsthand."
+    },
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=1200",
     "date": "12 Nov 2026",
     "readTime": {
       "ID": "4 mnt baca",
@@ -52,15 +68,23 @@
       "ID": "Tantangan 7 Days Without Plastic: Langkah Nyata Menuju Nol Sampah",
       "EN": "7 Days Without Plastic Challenge: Actionable Steps to Zero Waste"
     },
-    "excerpt": {
-      "ID": "Ubah kebiasaan konsumsi harian dengan alternatif ramah lingkungan dan bergabung bersama ribuan pejuang bebas sampah.",
-      "EN": "Transform daily consumption habits with sustainable alternatives and join thousands of zero-waste advocates."
-    },
     "category": {
       "ID": "Aksi Lingkungan",
       "EN": "Eco Campaign"
     },
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?q=80&w=800",
+    "desc": {
+      "ID": "Ubah kebiasaan konsumsi harian dengan alternatif ramah lingkungan dan bergabung bersama ribuan pejuang bebas sampah di seluruh penjuru kota.",
+      "EN": "Transform daily consumption habits with sustainable alternatives and join thousands of zero-waste advocates across the archipelago."
+    },
+    "excerpt": {
+      "ID": "Ubah kebiasaan konsumsi harian dengan alternatif ramah lingkungan dan bergabung bersama ribuan pejuang bebas sampah.",
+      "EN": "Transform daily consumption habits with sustainable alternatives and join thousands of zero-waste advocates."
+    },
+    "content": {
+      "ID": "Sampah plastik sekali pakai kini menjadi ancaman nyata bagi ekosistem daratan dan lautan Nusantara. Kantong plastik, sedotan, dan kemasan sachet membutuhkan waktu ratusan tahun untuk terurai, sering kali berakhir menjadi mikroplastik yang mencemari rantai makanan laut kita.\n\nProgram kampanye '7 Days Without Plastic' yang diinisiasi RIMBA mengajak individu, institusi pendidikan, dan komunitas untuk mengambil komitmen sederhana selama tujuh hari: menolak sedotan plastik, membawa kantong belanja kain, menggunakan botol minum guna ulang, dan memilah sampah dapur secara teratur.\n\nDengan dokumentasi harian dan panduan praktis yang disediakan, ribuan peserta telah membuktikan bahwa perubahan gaya hidup ramah lingkungan dapat dimulai dari langkah kecil di rumah masing-masing.",
+      "EN": "Single-use plastics pose an acute crisis for terrestrial and marine food webs across Indonesia. Plastic bags, straws, and multi-layered packaging linger for centuries, disintegrating into toxic microplastics that enter seafood chains.\n\nThe '7 Days Without Plastic' campaign spearheaded by RIMBA challenges individuals, schools, and workplaces to make a concrete 7-day commitment: reject single-use straws, carry reusable tote bags, drink from refillable bottles, and compost organic kitchen waste.\n\nWith daily actionable checklists and community accountability, thousands of participants are proving that collective eco-conscious living begins right in our own households."
+    },
+    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?q=80&w=1200",
     "date": "10 Nov 2026",
     "readTime": {
       "ID": "3 mnt baca",
@@ -75,15 +99,23 @@
       "ID": "Aksi Nyata Relawan: Menanam 10.000 Mangrove Menyelamatkan Pesisir",
       "EN": "Volunteer Action in Motion: Planting 10,000 Mangroves to Shield Coastlines"
     },
-    "excerpt": {
-      "ID": "Kisah inspiratif para relawan muda dan komunitas lokal merehabilitasi sabuk hijau pelindung dari abrasi laut.",
-      "EN": "An inspiring journey of youth volunteers and coastal communities rehabilitating green belts against coastal abrasion."
-    },
     "category": {
       "ID": "Aksi Relawan",
       "EN": "Volunteer Action"
     },
-    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=800",
+    "desc": {
+      "ID": "Kisah inspiratif para relawan muda dan komunitas lokal merehabilitasi sabuk hijau pelindung dari abrasi laut di pesisir utara Jawa dan Bali.",
+      "EN": "An inspiring journey of youth volunteers and coastal communities rehabilitating green belts against sea abrasion along vulnerable shores."
+    },
+    "excerpt": {
+      "ID": "Kisah inspiratif para relawan muda dan komunitas lokal merehabilitasi sabuk hijau pelindung dari abrasi laut.",
+      "EN": "An inspiring journey of youth volunteers and coastal communities rehabilitating green belts against coastal abrasion."
+    },
+    "content": {
+      "ID": "Hutan mangrove adalah benteng terdepan pulau-pulau di Indonesia dalam menghadapi naiknya permukaan air laut dan abrasi gelombang badai. Selain itu, ekosistem lahan basah ini mampu menyerap karbon hingga lima kali lebih besar dibanding hutan daratan biasa (blue carbon).\n\nAkhir pekan lalu, lebih dari 500 relawan pendaftar program aksi nyata RIMBA berkumpul bersama nelayan pesisir untuk menanam 10.000 bibit Rhizophora di area abrasi kritis. Semangat gotong royong tampak menyala di tengah lumpur pesisir saat para generasi muda menancapkan bambu ajir penopang bibit.\n\nTidak hanya menanam, RIMBA juga melibatkan pemuda lokal dalam program adopsi pohon mangrove dengan pemantauan berkala menggunakan barcode digital untuk memastikan tingkat kelangsungan hidup bibit mencapai di atas 85%.",
+      "EN": "Mangrove forests are the frontline armor shielding Indonesian islands from rising tides and ferocious storm surges. Furthermore, these blue carbon ecosystems sequester carbon at up to five times the rate of terrestrial tropical forests.\n\nLast weekend, over 500 volunteers enrolled through RIMBA joined coastal fishing communities to plant 10,000 Rhizophora seedlings in critically eroded shorelines. A radiant spirit of solidarity surged through the mud as volunteers secured seedling stakes.\n\nBeyond planting, RIMBA engages local coastal youth in a digital tree adoption model, tracking seedling survival rates with QR tags to ensure long-term sapling vitality exceeding 85%."
+    },
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=1200",
     "date": "08 Nov 2026",
     "readTime": {
       "ID": "4 mnt baca",
@@ -98,15 +130,23 @@
       "ID": "Merawat Koridor Alam: Suaka Terakhir Orangutan Kalimantan",
       "EN": "Guarding Wildlife Corridors: The Last Sanctuary of Bornean Orangutans"
     },
-    "excerpt": {
-      "ID": "Upaya rehabilitasi hutan gambut dan pembangunan koridor satwa liar guna menyatukan populasi orangutan yang terfragmentasi.",
-      "EN": "Peatland forest rehabilitation and wildlife corridors to reconnect fragmented orangutan populations."
-    },
     "category": {
       "ID": "Satwa Endemik",
       "EN": "Endemic Fauna"
     },
-    "image": "https://images.unsplash.com/photo-1544376798-89aa6b82c6cd?q=80&w=800",
+    "desc": {
+      "ID": "Upaya rehabilitasi hutan gambut dan pembangunan koridor satwa liar guna menyatukan populasi orangutan yang terfragmentasi di pedalaman Kalimantan.",
+      "EN": "Peatland forest rehabilitation and wildlife corridors reconnecting fragmented orangutan populations in the heart of Borneo."
+    },
+    "excerpt": {
+      "ID": "Upaya rehabilitasi hutan gambut dan pembangunan koridor satwa liar guna menyatukan populasi orangutan yang terfragmentasi.",
+      "EN": "Peatland forest rehabilitation and wildlife corridors to reconnect fragmented orangutan populations."
+    },
+    "content": {
+      "ID": "Orangutan Kalimantan (Pongo pygmaeus) dikenal sebagai 'petani hutan' sejati. Melalui pergerakan mereka yang memakan buah-buahan hutan dan menyebarkan bijinya sejauh berkilo-kilometer, hutan tropis Kalimantan dapat meregenerasi kanopinya secara alami.\n\nNamun, kebakaran hutan gambut musiman dan pembukaan lahan kelapa sawit telah memecah habitat mereka menjadi kantung-kantung kecil yang terisolasi. Hal ini menyebabkan perkawinan sedarah dan meningkatkan risiko konflik antara satwa dengan manusia.\n\nInisiatif RIMBA bekerja sama dengan masyarakat adat Dayak untuk membebaskan dan mereboisasi koridor hijau selebar 200 meter yang menghubungkan dua suaka alam terpisah. Dengan menanam pohon buah pakan satwa seperti ara dan rambutan hutan, orangutan kini dapat kembali menjelajah dengan bebas dan aman.",
+      "EN": "Bornean Orangutans (Pongo pygmaeus) are the true 'gardeners of the forest.' By eating wild fruits and dispersing seeds across vast home ranges, they enable natural regeneration across Borneo's ancient rainforest canopy.\n\nHowever, seasonal peat fires and widespread deforestation have fractured their ranges into fragmented forest islands, spiking genetic isolation and human-wildlife encounters.\n\nRIMBA is partnering with Dayak indigenous guardians to restore a 200-meter-wide ecological corridor bridging two disconnected sanctuaries. Cultivating native fruiting trees like wild figs and rambutan, this lifeline allows orangutans to roam safely once more."
+    },
+    "image": "https://images.unsplash.com/photo-1544376798-89aa6b82c6cd?q=80&w=1200",
     "date": "05 Nov 2026",
     "readTime": {
       "ID": "6 mnt baca",
@@ -121,15 +161,23 @@
       "ID": "Gerakan Bersih Sungai: Menghentikan Aliran Sampah Menuju Samudra",
       "EN": "River Cleanup Drive: Stemming the Flow of Plastics into the Ocean"
     },
-    "excerpt": {
-      "ID": "Aksi gabungan komunitas menyusuri bantaran sungai untuk menjaring puluhan ton sampah anorganik sebelum mencemari ekosistem laut.",
-      "EN": "A joint community initiative patrolling riverbanks to trap tons of inorganic waste before it contaminates marine life."
-    },
     "category": {
       "ID": "Konservasi Air",
       "EN": "Marine & River"
     },
-    "image": "https://images.unsplash.com/photo-1618477461853-cf6ed80faba5?q=80&w=800",
+    "desc": {
+      "ID": "Aksi gabungan komunitas menyusuri bantaran sungai untuk menjaring puluhan ton sampah anorganik sebelum mencemari ekosistem laut Nusantara.",
+      "EN": "A joint community initiative patrolling riverbanks to trap tons of inorganic waste before it contaminates marine life."
+    },
+    "excerpt": {
+      "ID": "Aksi gabungan komunitas menyusuri bantaran sungai untuk menjaring puluhan ton sampah anorganik sebelum mencemari ekosistem laut.",
+      "EN": "A joint community initiative patrolling riverbanks to trap tons of inorganic waste before it contaminates marine life."
+    },
+    "content": {
+      "ID": "Delapan puluh persen sampah plastik yang terapung di samudra berasal dari daerah aliran sungai di daratan. Sungai-sungai yang melintasi pemukiman padat penduduk kerap menjadi tempat pembuangan limbah tak resmi yang mengalirkan polusi ke perairan laut.\n\nMelalui program 'Rimba River Clean-Up', para relawan dilengkapi dengan jaring apung ramah lingkungan, perahu karet, dan perlengkapan pengaman untuk menyisir sungai-sungai utama. Sampah yang dikumpulkan kemudian ditimbang, dipilah berdasarkan jenis polimer, dan disalurkan ke fasilitas daur ulang terpercaya.\n\nGerakan ini tidak hanya membersihkan sungai secara fisik, tetapi juga membangun kesadaran warga bantaran sungai melalui edukasi pemilahan sampah dari sumbernya, menjaga air bersih untuk masa depan bersama.",
+      "EN": "Eighty percent of ocean plastic debris originates from inland river basins. Rivers cutting through high-density urban areas often become unmanaged disposal conduits carrying waste directly into coral reefs and marine nurseries.\n\nThrough the 'Rimba River Clean-Up' initiative, volunteer task forces equipped with safety gear and floating catchment nets intercept refuse across vital waterways. Collected plastics are sorted by polymer type and routed to verified recycling cooperatives.\n\nThis movement pairs tactical cleanup with deep community outreach along riverbanks, educating households on waste segregation at the source to preserve clean water for generations."
+    },
+    "image": "https://images.unsplash.com/photo-1618477461853-cf6ed80faba5?q=80&w=1200",
     "date": "01 Nov 2026",
     "readTime": {
       "ID": "3 mnt baca",

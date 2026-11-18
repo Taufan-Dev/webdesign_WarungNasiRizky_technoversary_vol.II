@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink, useLocation } from "react-router-dom";
 import { useLanguage } from "../../context/LanguageContext";
 
 // Clean SVG Icons untuk Pilar Rimba
@@ -106,8 +106,14 @@ const Navbar = () => {
     }
   }, [darkMode]);
 
-  // Efek scroll halus muncul setelah section Bento
+  const location = useLocation();
+  const isHome = location.pathname === "/";
+  const isNavbarVisible = !isHome || visible;
+
+  // Efek scroll halus: di Home muncul setelah Bento
   useEffect(() => {
+    if (!isHome) return;
+
     const handleScroll = () => {
       const aboutSection = document.getElementById("about");
       if (aboutSection) {
@@ -126,7 +132,7 @@ const Navbar = () => {
       window.removeEventListener("scroll", handleScroll);
       window.removeEventListener("resize", handleScroll);
     };
-  }, []);
+  }, [isHome]);
 
   const menuItems = [
     {
@@ -159,7 +165,7 @@ const Navbar = () => {
   return (
     <header
       className={`fixed top-6 left-1/2 -translate-x-1/2 z-50 w-[94%] max-w-7xl transition-all duration-700 ease-out transform ${
-        visible
+        isNavbarVisible
           ? "opacity-100 translate-y-0 pointer-events-auto"
           : "opacity-0 -translate-y-12 pointer-events-none"
       }`}

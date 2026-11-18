@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Komodo",
+    "scientificName": "Varanus komodoensis",
+    "fullName": "Varanus komodoensis (Kadal Raksasa Purba)",
+    "status": "Terancam Punah (Endangered)",
+    "era": "Endemik Nusa Tenggara",
+    "image": "https://images.unsplash.com/photo-1598439210625-5067c578f3f6?q=80&w=1000",
+    "ID": {
+      "name": "Komodo",
+      "status": "Terancam Punah (Endangered)",
+      "habitat": "Taman Nasional Komodo, NTT",
+      "fields": ["Reptilia", "Karnivora", "Savana Tropis"],
+      "shortDescription": "Spesies kadal terbesar di dunia yang masih hidup, mendiami pulau-pulau vulkanik Indonesia dengan kemampuan kamuflase dan racun berburu yang mematikan.",
+      "about": "Komodo (Varanus komodoensis) adalah kadal raksasa purba yang hanya ditemukan di kepulauan Komodo, Rinca, Gili Motang, dan sebagian barat Flores. Mampu tumbuh hingga 3 meter dengan berat melebihi 90 kilogram, komodo merupakan predator puncak yang berperan vital menjaga keseimbangan populasi fauna di habitat kepulauan beriklim kering.",
+      "contributions": [
+        "Predator puncak pengontrol rantai makanan dan populasi mamalia savana",
+        "Bukti hidup evolusi isolasi kepulauan Wallacea selama jutaan tahun",
+        "Menjadi lambang kebanggaan konservasi alam tingkat global bagi Indonesia"
+      ],
+      "works": [
+        "Sensor lidah bercabang mampu melacak aroma mangsa hingga sejauh 9,5 kilometer",
+        "Kelenjar bisa di rahang bawah menghasilkan racun antikoagulan pembendung darah",
+        "Habitat dilindungi ketat di Kawasan Warisan Dunia UNESCO Taman Nasional Komodo"
+      ]
+    },
+    "EN": {
+      "name": "Komodo Dragon",
+      "status": "Endangered (IUCN)",
+      "habitat": "Komodo National Park, East Nusa Tenggara",
+      "fields": ["Reptilia", "Carnivore", "Tropical Savanna"],
+      "shortDescription": "The world's largest living ancient lizard species, endemic to Indonesian volcanic islands with lethal hunting venom and acute olfactory senses.",
+      "about": "The Komodo Dragon (Varanus komodoensis) is an ancient apex reptile found exclusively on Komodo, Rinca, Gili Motang, and parts of western Flores. Reaching lengths up to 3 meters and weights above 90 kilograms, it commands the island food pyramid, maintaining ecosystem balance across arid ecosystems.",
+      "contributions": [
+        "Apex predator regulating herbivore populations across dry savanna islands",
+        "Living evolutionary testimony of Wallacean island isolation over millions of years",
+        "Global flagship icon for Indonesian wildlife preservation and UNESCO heritage"
+      ],
+      "works": [
+        "Forked tongue sensory receptors track scents up to 9.5 kilometers away",
+        "Lower jaw venom glands deliver anticoagulant peptides incapacitating prey",
+        "Strictly protected within UNESCO World Heritage Komodo National Park"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Harimau Sumatera",
+    "scientificName": "Panthera tigris sumatrae",
+    "fullName": "Panthera tigris sumatrae (Harimau Loreng Sumatera)",
+    "status": "Kritis (Critically Endangered)",
+    "era": "Endemik Pulau Sumatera",
+    "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=1000",
+    "ID": {
+      "name": "Harimau Sumatera",
+      "status": "Kritis (Critically Endangered)",
+      "habitat": "Hutan Hujan Tropis Bukit Barisan, Sumatera",
+      "fields": ["Mamalia", "Karnivora", "Hutan Tropis"],
+      "shortDescription": "Subspesies harimau terakhir di Indonesia dengan loreng paling rapat dan warna paling pekat, penjaga kanopi dan keutuhan hutan hujan Sumatera.",
+      "about": "Harimau Sumatera (Panthera tigris sumatrae) adalah benteng terakhir subspesies harimau di Nusantara setelah punahnya harimau Jawa dan Bali. Bertubuh paling ramping di antara seluruh harimau di dunia untuk memudahkan pergerakan di rimba lebat, populasinya diperkirakan tinggal kurang dari 400 individu di alam liar.",
+      "contributions": [
+        "Payung ekosistem (umbrella species) yang menjaga keutuhan jutaan hektare hutan hujan",
+        "Pengendali alami populasi babi hutan dan herbivora liar di pedalaman hutan tropis",
+        "Indikator kesehatan utama kawasan hutan pegunungan dan dataran rendah Sumatera"
+      ],
+      "works": [
+        "Pola loreng oranye gelap dan hitam pekat paling rapat di antara seluruh jenis harimau",
+        "Selaput di sela-sela jari kaki menjadikannya perenang ulung saat menyeberangi sungai deras",
+        "Menjadi fokus utama konservasi satwa prioritas nasional di Indonesia"
+      ]
+    },
+    "EN": {
+      "name": "Sumatran Tiger",
+      "status": "Critically Endangered (IUCN)",
+      "habitat": "Tropical Rainforests of Bukit Barisan, Sumatra",
+      "fields": ["Mammalia", "Carnivore", "Rainforest"],
+      "shortDescription": "Indonesia's last surviving tiger subspecies, possessing the densest stripes and darkest coat, guarding Sumatra's ancient rainforest canopy.",
+      "about": "The Sumatran Tiger (Panthera tigris sumatrae) is the last remaining tiger subspecies in the Indonesian archipelago following the extinction of the Javan and Balinese tigers. Adapted with a slender build for maneuvering dense wilderness, fewer than 400 individuals survive in the wild.",
+      "contributions": [
+        "Apex umbrella species whose conservation protects millions of hectares of wilderness",
+        "Natural regulator of wild boar and forest herbivore populations",
+        "Primary bio-indicator for pristine tropical rainforest vitality in Sumatra"
+      ],
+      "works": [
+        "Narrowest, darkest stripe pattern providing unmatched camouflage in dense jungle foliage",
+        "Partial webbing between toes grants exceptional river swimming capabilities",
+        "Top priority species under national and international conservation mandates"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Orangutan Kalimantan",
+    "scientificName": "Pongo pygmaeus",
+    "fullName": "Pongo pygmaeus (Kera Besar Hutan Tropis)",
+    "status": "Kritis (Critically Endangered)",
+    "era": "Endemik Pulau Kalimantan",
+    "image": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?q=80&w=1000",
+    "ID": {
+      "name": "Orangutan Kalimantan",
+      "status": "Kritis (Critically Endangered)",
+      "habitat": "Taman Nasional Tanjung Puting & Sebangau, Kalteng",
+      "fields": ["Primata", "Herbivora", "Hutan Rawa Gambut"],
+      "shortDescription": "Kera besar cerdas penjaga kanopi yang menyebarkan biji-bijian pohon hutan dan meregenerasi ekosistem hutan hujan tropis Nusantara.",
+      "about": "Orangutan Kalimantan (Pongo pygmaeus) adalah salah satu kerabat terdekat manusia dengan kemiripan DNA mencapai 97%. Menghabiskan lebih dari 90% hidupnya di atas kanopi pepohonan, orangutan dikenal sebagai 'petani hutan' karena mobilitasnya memakan buah dan menyebarkan biji secara alami ke seluruh penjuru rimba.",
+      "contributions": [
+        "Petani alami hutan yang meregenerasi kanopi vegetasi melalui dispersi benih tanaman",
+        "Menjaga bukaan cahaya matahari di lantai hutan saat membuat sarang ranting baru setiap sore",
+        "Kunci stabilitas ekologi hutan rawa gambut penyimpan cadangan karbon bumi"
+      ],
+      "works": [
+        "Tingkat kecerdasan tinggi dengan kemampuan memanfaatkan daun sebagai payung dan ranting sebagai alat",
+        "Rentang lengan mencapai 2 meter, lebih panjang daripada tinggi badannya",
+        "Memiliki siklus reproduksi paling lambat di antara mamalia darat (melahirkan sekali tiap 7-8 tahun)"
+      ]
+    },
+    "EN": {
+      "name": "Bornean Orangutan",
+      "status": "Critically Endangered (IUCN)",
+      "habitat": "Tanjung Puting & Sebangau National Parks, Central Kalimantan",
+      "fields": ["Primates", "Frugivore", "Peat Swamp Forest"],
+      "shortDescription": "Highly intelligent canopy great apes functioning as primary seed dispersers that naturally regenerate Indonesia's rainforest biodiversity.",
+      "about": "The Bornean Orangutan (Pongo pygmaeus) shares approximately 97% of human DNA. Spending over 90% of their life high in the forest canopy, these solitary primates are widely celebrated as the 'gardeners of the forest' due to their essential role in dispersing seeds across expansive jungle habitats.",
+      "contributions": [
+        "Keystone forest gardener driving tree species propagation via wide seed dispersal",
+        "Opens sunlight canopies for understory growth when weaving new branch nests each twilight",
+        "Crucial for the ecological stability of carbon-dense peat swamp rainforests"
+      ],
+      "works": [
+        "Demonstrates sophisticated tool usage, constructing leaf umbrellas and probing twigs",
+        "Arm span exceeding 2 meters, significantly longer than total standing height",
+        "Longest inter-birth interval of any terrestrial mammal (6-8 years between offspring)"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Badak Jawa",
+    "scientificName": "Rhinoceros sondaicus",
+    "fullName": "Rhinoceros sondaicus (Badak Bercula Satu)",
+    "status": "Sangat Kritis (Critically Endangered)",
+    "era": "Endemik Ujung Kulon, Banten",
+    "image": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?q=80&w=1000",
+    "ID": {
+      "name": "Badak Jawa",
+      "status": "Sangat Kritis (Critically Endangered)",
+      "habitat": "Semenanjung Ujung Kulon, Banten",
+      "fields": ["Mamalia", "Herbivora", "Hutan Pesisir"],
+      "shortDescription": "Salah satu mamalia paling langka di bumi dengan kulit berlipat khas menyerupai baju baja dan cula tunggal yang amat dilindungi.",
+      "about": "Badak Jawa (Rhinoceros sondaicus) adalah mamalia darat paling terancam punah di muka bumi, dengan populasi tersisa kurang dari 80 ekor yang seluruhnya hidup terkonsentrasi di Semenanjung Ujung Kulon. Memiliki sifat pemalu dan hidup soliter, satwa ini membutuhkan hutan primer lembap dengan ketersediaan kubangan lumpur.",
+      "contributions": [
+        "Spesies kunci yang merawat semak belukar dan membuka koridor rintisan di hutan lebat",
+        "Simbol pertahanan konservasi satwa langka warisan geologis purba dunia",
+        "Membantu sirkulasi tanah dan nutrisi mineral hutan melalui aktivitas berkubang"
+      ],
+      "works": [
+        "Tekstur kulit mosaik berlipat menyerupai lempengan baju besi ksatria kuno",
+        "Memiliki cula tunggal sepanjang 20–25 cm yang tersusun dari serat keratin padat",
+        "Dipantau secara ketat 24 jam penuh menggunakan perangkap kamera sensor gerak (camera trap)"
+      ]
+    },
+    "EN": {
+      "name": "Javan Rhinoceros",
+      "status": "Critically Endangered (IUCN)",
+      "habitat": "Ujung Kulon National Park Peninsula, Banten",
+      "fields": ["Mammalia", "Herbivore", "Coastal Lowland"],
+      "shortDescription": "One of the rarest land mammals on Earth, characterized by iconic armor-like skin folds and a single defensive keratin horn.",
+      "about": "The Javan Rhinoceros (Rhinoceros sondaicus) is arguably the most endangered large mammal on Earth, with under 80 surviving individuals restricted solely to the Ujung Kulon peninsula. Extremely elusive and solitary, this prehistoric browser thrives in dense lowland wetlands and mineral wallows.",
+      "contributions": [
+        "Keystone herbivore pruning pioneer foliage and maintaining pathways in dense jungle",
+        "World heritage flagship symbol of evolutionary preservation and sanctuary defense",
+        "Enriches forest soils and mineral distribution through perpetual mud wallowing"
+      ],
+      "works": [
+        "Distinctive armor-plated mosaic dermal folds shielding against thorny wilderness",
+        "Single nasal horn measuring 20–25 cm composed entirely of dense keratin filaments",
+        "Monitored under 24/7 continuous surveillance via thermal camera-trap networks"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Cenderawasih Merah",
+    "scientificName": "Paradisaea rubra",
+    "fullName": "Paradisaea rubra (Burung Surga Kepulauan Raja Ampat)",
+    "status": "Hampir Terancam (Near Threatened)",
+    "era": "Endemik Kepulauan Raja Ampat, Papua",
+    "image": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?q=80&w=1000",
+    "ID": {
+      "name": "Cenderawasih Merah",
+      "status": "Hampir Terancam (Near Threatened)",
+      "habitat": "Pulau Waigeo & Batanta, Papua Barat Daya",
+      "fields": ["Aves", "Frugivora", "Hutan Tropis Bukit"],
+      "shortDescription": "Burung surga berbulu merah menyala dengan dua antena ekor pilin yang melakukan ritual tarian memikat di kanopi fajar rimba Papua.",
+      "about": "Cenderawasih Merah (Paradisaea rubra) adalah burung endemik yang hanya dapat ditemukan di kanopi hutan bukit Pulau Waigeo dan Batanta, Raja Ampat. Pejantan dewasa memiliki bulu dada kuning zamrud dan ekor merah terang yang mengembang spektakuler saat menari di hadapan betina.",
+      "contributions": [
+        "Penyebar biji buah-buahan hutan dataran rendah kepulauan Raja Ampat",
+        "Ikon keanekaragaman hayati dan daya tarik ekowisata berbasis komunitas adat",
+        "Indikator keaslian dan keheningan tutupan hutan tropis primer pulau-pulau kecil"
+      ],
+      "works": [
+        "Sepasang bulu ekor berbentuk pita kawat hitam lentur yang melingkar elegan",
+        "Ritual tarian pajang (lek display) di dahan tinggi saat mentari pagi baru terbit",
+        "Dilindungi adat setempat melalui tradisi kearifan lokal 'Sasi Alam'"
+      ]
+    },
+    "EN": {
+      "name": "Red Bird-of-Paradise",
+      "status": "Near Threatened (IUCN)",
+      "habitat": "Waigeo & Batanta Islands, Southwest Papua",
+      "fields": ["Aves", "Frugivore", "Hill Rainforest"],
+      "shortDescription": "Spectacular bird of paradise featuring fiery crimson plumes and elongated tail wires performing elaborate sunrise canopy mating dances.",
+      "about": "The Red Bird-of-Paradise (Paradisaea rubra) is an exquisite avian jewel endemic exclusively to the rainforest canopies of Waigeo and Batanta islands in Raja Ampat. Males boast vivid emerald green throats, golden capes, and crimson flank feathers flared during lek courtship displays.",
+      "contributions": [
+        "Essential seed distributor for diverse native fig and berry tree species",
+        "Flagship symbol of community-based indigenous eco-tourism and cultural pride",
+        "Reliable environmental indicator of intact low-impact tropical forest canopies"
+      ],
+      "works": [
+        "Twin corkscrew wire tail streamers extending beyond decorative plumage",
+        "Synchronized acrobatic displays in high canopy lek sites during dawn hours",
+        "Strictly safeguarded through customary Papuan 'Sasi' conservation prohibitions"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Anoa Dataran Rendah",
+    "scientificName": "Bubalus depressicornis",
+    "fullName": "Bubalus depressicornis (Sapi Hutan Kerdil Sulawesi)",
+    "status": "Genting (Endangered)",
+    "era": "Endemik Pulau Sulawesi",
+    "image": "https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?q=80&w=1000",
+    "ID": {
+      "name": "Anoa Dataran Rendah",
+      "status": "Genting (Endangered)",
+      "habitat": "Taman Nasional Bogani Nani Wartabone, Sulawesi",
+      "fields": ["Mamalia", "Herbivora", "Hutan Basah"],
+      "shortDescription": "Bovidae terkecil di dunia yang menyerupai kerbau kerdil soliter, mendiami belantara hutan primer dan tepian sungai Sulawesi.",
+      "about": "Anoa Dataran Rendah (Bubalus depressicornis) sering dijuluki 'sapi hutan kerdil' karena posturnya yang kompak dengan tinggi bahu kurang dari 90 cm. Menjadi satwa endemik khas Sulawesi, anoa memiliki tanduk lurus meruncing ke belakang yang digunakan untuk menembus belukar rapat.",
+      "contributions": [
+        "Herbivora penjelajah yang menjaga vegetasi understory lantai hutan tetap seimbang",
+        "Spesies kunci yang mencerminkan isolasi biogeografi fauna unik garis Wallacea",
+        "Mendukung siklus mineral hutan dengan mengunjungi sumber mata air garam alami"
+      ],
+      "works": [
+        "Merupakan spesies liar terkecil dalam keluarga kerbau dan sapi di dunia",
+        "Tanduk berbentuk segitiga runcing yang tumbuh menghadap ke belakang kepala",
+        "Memiliki kebiasaan mandi air bersih dan berendam di kolam mata air alami"
+      ]
+    },
+    "EN": {
+      "name": "Lowland Anoa",
+      "status": "Endangered (IUCN)",
+      "habitat": "Bogani Nani Wartabone National Park, Sulawesi",
+      "fields": ["Mammalia", "Herbivore", "Wet Rainforest"],
+      "shortDescription": "The world's smallest wild cattle species, a compact solitary dwarf buffalo inhabiting deep primary river valleys across Sulawesi.",
+      "about": "The Lowland Anoa (Bubalus depressicornis) is a miniature bovid standing under 90 centimeters at the shoulder. Endemic exclusively to Sulawesi, this elusive forest ruminant wields straight, backward-pointing horns adapted for swiftly navigating dense swampy thickets.",
+      "contributions": [
+        "Browsing herbivore maintaining optimal ecological understory vegetation balance",
+        "Keystone emblem of Wallacean evolutionary isolation and endemic biodiversity",
+        "Cycles essential mineral deposits via habitual visits to natural jungle salt-licks"
+      ],
+      "works": [
+        "Smallest living wild member of the global Bovidae family",
+        "Triangular, sharp dagger-like horns swept streamlined backwards",
+        "Highly reliant on unpolluted freshwater streams and natural mineral wallows"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bekantan",
+    "scientificName": "Nasalis larvatus",
+    "fullName": "Nasalis larvatus (Monyet Belanda Berhidung Panjang)",
+    "status": "Genting (Endangered)",
+    "era": "Endemik Pulau Kalimantan",
+    "image": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?q=80&w=1000",
+    "ID": {
+      "name": "Bekantan",
+      "status": "Genting (Endangered)",
+      "habitat": "Hutan Mangrove & Delta Sungai Kalimantan",
+      "fields": ["Primata", "Herbivora", "Hutan Mangrove"],
+      "shortDescription": "Monyet endemik unik dengan hidung besar menggantung dan kemampuan berenang ulung yang hidup berkelompok di tepi rawa mangrove.",
+      "about": "Bekantan (Nasalis larvatus) adalah primata arboreal yang terkenal karena hidung mancung besarnya pada jantan dewasa, yang berfungsi sebagai resonator suara untuk memanggil kelompok. Mereka memiliki selaput renang di kakinya dan merupakan perenang handal yang mampu menyelam hingga kedalaman 20 meter.",
+      "contributions": [
+        "Bio-indikator utama kelestarian dan keutuhan ekosistem sabuk hijau mangrove",
+        "Membantu pemangkasan alami daun mangrove muda agar tajuk tumbuh sehat",
+        "Menjadi ikon maskot konservasi satwa provinsi Kalimantan Selatan"
+      ],
+      "works": [
+        "Hidung besar pada jantan berfungsi memperbesar volume panggilan teritorial",
+        "Sistem pencernaan berlapis khusus yang mampu menetralisir racun daun mangrove",
+        "Bisa melompat langsung dari dahan kanopi setinggi 15 meter ke dalam air sungai"
+      ]
+    },
+    "EN": {
+      "name": "Proboscis Monkey",
+      "status": "Endangered (IUCN)",
+      "habitat": "Mangrove Forests & River Basins of Borneo",
+      "fields": ["Primates", "Folivore", "Mangrove Wetland"],
+      "shortDescription": "Distinctive coastal monkey boasting an extraordinary pendulous nose and remarkable swimming abilities across mangrove deltas.",
+      "about": "The Proboscis Monkey (Nasalis larvatus) is a specialized arboreal primate renowned for the male's bulbous hanging nose, which functions as an acoustic chamber amplifying territorial calls. Equipped with webbed digits, they are among the animal kingdom's finest primate swimmers.",
+      "contributions": [
+        "Primary bio-indicator for healthy coastal estuarine and mangrove belt ecosystems",
+        "Natural pruner of mangrove foliage stimulating continuous canopy rejuvenation",
+        "Celebrated official conservation mascot of South Kalimantan province"
+      ],
+      "works": [
+        "Enlarged pendulous nose serves as a dynamic acoustic resonance chamber",
+        "Multi-chambered stomach neutralizing toxins in mature mangrove leaves",
+        "Capable of diving up to 20 meters underwater and leaping from 15-meter boughs"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Jalak Bali",
+    "scientificName": "Leucopsar rothschildi",
+    "fullName": "Leucopsar rothschildi (Burung Kicau Putih Salju)",
+    "status": "Sangat Kritis (Critically Endangered)",
+    "era": "Endemik Pulau Bali",
+    "image": "https://images.unsplash.com/photo-1522926197415-e56c29c56fdf?q=80&w=1000",
+    "ID": {
+      "name": "Jalak Bali",
+      "status": "Sangat Kritis (Critically Endangered)",
+      "habitat": "Taman Nasional Bali Barat",
+      "fields": ["Aves", "Omnivora", "Hutan Musim Kering"],
+      "shortDescription": "Burung pengicau anggun dengan bulu putih bersih, jambul dinamis, dan lingkaran mata biru kobalt cerah yang amat memikat.",
+      "about": "Jalak Bali (Leucopsar rothschildi) atau Curik Bali adalah salah satu burung pengicau paling anggun dan langka di dunia, dengan seluruh bulu tubuh putih salju kecuali ujung sayap dan ekor yang hitam. Ditemukan hanya di bentang hutan musim kering Taman Nasional Bali Barat.",
+      "contributions": [
+        "Penyebar biji buah liar dan pengontrol hama ulat serta serangga hutan",
+        "Simbol keanggunan budaya dan lambang fauna resmi Provinsi Bali",
+        "Keberhasilan program penangkaran semi-alami berbasis pelibatan masyarakat lokal"
+      ],
+      "works": [
+        "Warna biru kobalt mencolok tanpa bulu di sekitar kelopak mata",
+        "Jambul kepala tegak yang dapat mengembang indah saat bercumbu atau berkicau",
+        "Program pemulihan populasi intensif meningkatkan populasinya kembali dari ambang kepunahan"
+      ]
+    },
+    "EN": {
+      "name": "Bali Starling",
+      "status": "Critically Endangered (IUCN)",
+      "habitat": "West Bali National Park",
+      "fields": ["Aves", "Omnivore", "Dry Monsoon Forest"],
+      "shortDescription": "Exquisite white songbird with an expressive crest and electric cobalt-blue eye patch, endemic to the dry woodlands of Bali.",
+      "about": "The Bali Starling (Leucopsar rothschildi), locally known as Curik Bali, is among the world's most endangered and beautiful passerines. Almost pure white with tipped black wings and tail, it inhabits the rare dry deciduous monsoon woodlands of West Bali National Park.",
+      "contributions": [
+        "Natural controller of caterpillars and insect larvae across coastal forests",
+        "Official provincial faunal emblem and cultural treasure of Bali island",
+        "Pioneer model for community-driven sanctuary breeding and soft-release stewardship"
+      ],
+      "works": [
+        "Vibrant bare cobalt-blue orbital skin ring around both eyes",
+        "Erectile white crest feathers raised during song flights and territorial posturing",
+        "Intensive breeding and microchip tagging programs resurrecting wild populations"
+      ]
+    }
+  }
+]
